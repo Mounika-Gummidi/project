@@ -1,0 +1,151 @@
+.bg-container 
+{
+  background-image: url("t1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ background-color: black;
+}
+nav{
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding:  10px 10px;
+  
+}
+nav ul li{
+  display: inline-block;
+  margin: 0px 10px;
+  align-items: center;
+  
+}
+nav ul li a{
+  color: black;
+  text-decoration: none;
+}
+.navigation{
+  background-color: rgb(252, 251, 251);
+  padding-top: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-bottom: 0px;
+}
+.name{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 25px;
+  vertical-align: middle;  
+  padding-top: 15px; 
+  display:inline-block;
+}
+.name:hover{
+  color:rgb(255, 114, 137);
+}
+.whishlist .profile .cart{
+  padding-right: 6px;
+}
+.whishlist i:hover{
+  color: rgb(250, 54, 87);
+}
+.profile:hover{
+  color: rgb(59, 59, 252);
+}
+.cart:hover{
+  font-size: 18px;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+}
+
+.information{
+  background-color: #fcebee;
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  justify-content: space-between;
+  margin-top: 0px;
+  left: 0px;
+  right :0;
+}
+.shipping 
+{
+  background-color: rgb(255, 255, 255);
+  padding: 10px 70px;
+  margin-left: 10px;
+  border-radius: 9px;
+}
+.returns
+{
+  background-color: rgb(255, 255, 255);
+  padding: 10px 70px;
+  border-radius: 9px;
+}
+.offer{
+  background-color: rgb(255, 255, 255);
+  padding: 10px 70px;
+  border-radius: 9px;
+}
+.payment{
+  background-color: rgb(255, 255, 255);
+  padding: 10px 70px;
+  margin-right: 10px;
+  border-radius: 9px;
+}
+.button{
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  padding:10px 16px;
+  font-size: small;
+  margin-left: 10px;
+  margin-right: 10px;
+  transition: padding 0.50s;
+  
+}
+
+button:hover{
+  background-color: rgb(251, 165, 179);
+  color: black;
+ padding-left: 21px;
+ padding-right: 21px;
+ margin-left: 10;
+ margin-right: 0;
+}
+.button:active
+{
+  background-color: rgb(236, 115, 135);
+  border-width: 0px; 
+  color:black;
+}
+.stars
+{
+  color:rgb(250, 54, 87);
+}
+.customer-name
+{
+  font-weight: bold;
+  font-size: 15px;
+}
+.review
+{
+  color:gray;
+  font-size: 12px;
+}
+.customer-opinion
+{
+  color:gray;
+  font-size: 13px;
+}
+.follow-us:hover
+{
+  color: rgb(39, 130, 160);
+}
+.follow:hover
+{
+  color: rgb(241, 127, 146);
+  text-decoration: underline;
+}
