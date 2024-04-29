@@ -1,0 +1,113 @@
+.img1
+{
+  height:70px;
+  width:70px;
+  cursor: pointer;
+  border-width:1px;
+  box-shadow: 5px 5px 10px  rgb(171, 181, 184);
+ 
+}
+.img2
+{
+  height:70px;
+  width:50px;
+  cursor: pointer;
+  border-width:1px;
+  box-shadow: 5px 5px 10px  rgb(171, 181, 184);
+ 
+}
+.img3
+{
+  height:70px;
+  width:50px;
+  cursor: pointer;
+  border-width:1px;
+  box-shadow: 5px 5px 10px rgb(171, 181, 184);
+ 
+}
+.img4
+{
+  height:70px;
+  width:70px;
+  cursor: pointer;
+  border-width:1px;
+  box-shadow: 5px 5px 10px  rgb(171, 181, 184);
+ 
+}
+.skills
+{  
+ flex:1;
+ display: flex;
+ flex-direction: column;
+}
+.webpage
+{
+  background-size: cover;
+  
+  height:200vh;
+}
+.mouni
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+ text-align:center;
+ padding-bottom:25px;
+}
+.profilepicture
+{
+  height: 150px;
+  width: 150px;
+ 
+}
+.icon 
+{
+  color:#5a7184;
+  font-size: 18px;
+}
+.body
+{
+  height: 2000px;
+  background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
+}
+.footer
+{
+  
+  background-color:  rgb(133, 210, 231) ;
+  margin-top: 30px;
+  bottom:0;
+  right:0;
+  left:0;
+  margin-right:13px;
+  margin-left:13px;
+  margin-bottom:5px;
+  
+}
+.resume
+{
+margin-bottom:0;
+}
+.skills{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.projects
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding-bottom: 9px;
+}
+.pro1img
+{
+  height: 290px;
+  width: 200px;
+}
+.pro2img
+{
+  height: 290px;
+  width: 200px;
+}
+.linkedin
+{
+  color:navy;
+  text-decoration: underline;
+}
